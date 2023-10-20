@@ -44,6 +44,9 @@ Evaluate how the dashboard aligns with business and user requirements.
 Define business intelligence and Power BI.
 Identify two data analytic tools and their business applications with examples.
 
+![Screenshot (1123)](https://github.com/RashidHasan/BI-For-Business-Improvement-And-Decision-Support-Project/assets/136935583/380f21b8-20d9-4d39-be8f-fea8e91a86c7)
+
+
 ## Outcomes and Deliverables:
 Upon completion of this project, IEC can expect the following outcomes:
 Improved business processes through the adoption of business intelligence tools.
