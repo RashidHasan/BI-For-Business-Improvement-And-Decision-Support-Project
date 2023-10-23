@@ -1,3 +1,6 @@
+![Screenshot (1126)](https://github.com/RashidHasan/Research-Implementing-Network/assets/136935583/7ed8a2a4-cc96-4f2e-acd4-6d6ea46c8958)
+
+
 # Project Overview: Enhancing Business Intelligence and Decision-Making for IEC
 
 Introduction:
@@ -64,3 +67,17 @@ As one of the senior business analysts mentioned  in the scenario working on a p
 My analytical skills have been enhanced by delving deeper into data analysis, distinguishing between structured and unstructured data, and identifying data requirements in order to make better decisions. I have also faced complex challenges related to social media inquiries, legal and regulatory compliance, and business process improvements.
 
 My project management experience will help me coordinate tasks, meet deadlines, and integrate project components effectively. I have also gained a deep understanding of IEC's business operations, particularly in marketing and customer service, which will enable me to align technical solutions with the company's operational needs. My experience in data visualization, user-centered design, and industry-specific knowledge will be valuable in my future professional endeavors.
+
+# Ownership Notice
+
+This project, including all associated code, content, and assets, belongs to Rasheed Hassan. All rights reserved for this project. Unauthorized use, distribution, or reproduction of any part of this project is strictly prohibited, and the projects are provided solely for the purpose of providing benefits and compiling my experiences.
+
+## Important Alert
+By accessing or using this project, you agree to respect the proprietary rights of "Rashid Hassan". Any use outside the scope of the license or permission granted is subject to legal action.
+
+For inquiries or to request cooperation, please contact me via my email on the home page.
+
+Thank you for your understanding and cooperation.
+
+Rashid Hassan.
+
